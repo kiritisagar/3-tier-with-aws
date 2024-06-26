@@ -1,3 +1,7 @@
+# https://catalog.us-east-1.prod.workshops.aws/workshops/85cd2bb2-7f79-4e96-bdee-8078e469752a/en-US/part2/database
+# refer above documentation
+
+
 # step1:S3 Bucket Creation
 Navigate to the S3 service in the AWS console and create a new S3 bucket
 
